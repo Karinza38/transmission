@@ -1,4 +1,4 @@
-# Ezseed rtorrent shell bindings
+Ezseed rtorrent shell bindings
 
 ## API:
   - `install.sh` - installs transmission
